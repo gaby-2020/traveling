@@ -20,7 +20,7 @@
 	<header  id="navbar">
 		<a href="" class="logo">LET´S<span>TRAVEL</span></a>
 		<ul>
-		  <li><a href="index2.php">Guia</a></li>
+		  <li><a href="index2.php">Guiaaaaaa</a></li>
 		  <li><a href="registro.php">Turista</a></li>
 		</ul>
 		<span class="menuIcon" onclick="menuToggle();"></span>
